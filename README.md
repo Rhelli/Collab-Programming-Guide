@@ -17,6 +17,7 @@ CSS RULES
     
     - Flexbox containers always go at the top of the CSS element section as they control everything beneath them. The following elements WITHIN the flexbox should be indented (with tabs) to maintain clean code structure.
   
+    - DRY principle: Dont Repeat Yourself. Try and write efficient code which means effective use of classes and ids.
   
   COMMENTS
     
